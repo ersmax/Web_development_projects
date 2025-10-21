@@ -4,7 +4,7 @@ body {
 
 h1.meme {
     text-transform: uppercase;
-    font-size:2rem;
+    font-size:3rem;
 }
 
 div.meme {
@@ -12,8 +12,8 @@ div.meme {
   text-align: center;
   width: 50%;
   margin-left: 25%;
-  margin-top: 50px;
-  border: 5px solid #e06b80;
+  margin-top: 30px;
+  /* border: 5px solid #e06b80; */
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   font-style: normal;
